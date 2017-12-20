@@ -25,4 +25,4 @@ django2[文件](https://docs.djangoproject.com/en/2.0/intro/tutorial01/)
 由於夏天已經先push上去資料庫migration，下migrate之後就可看到資料庫所有的資料表，以及夏天新增的notification表
 > 備註：  
 > /EarlyBirdTicket/urls.py參考註解可將首頁導到app tickets的首頁  
-#####夏天如何建立migration的筆記請參考檔案create_migration.md
+##### 夏天如何建立migration的筆記請參考檔案create_migration.md
